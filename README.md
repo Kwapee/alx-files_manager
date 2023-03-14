@@ -17,7 +17,7 @@ Of course, this kind of service already exists in the real life - it’s a learn
 Enjoy!
 
 ## Author:
-Nii Tetteh Odoi
+Amoako Perry
 
 * Dir : ALX-files_manager
 * Msg : Read me for the above mentioned
